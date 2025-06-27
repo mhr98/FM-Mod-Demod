@@ -5,4 +5,4 @@ The FM baseband recording can be downloaded from the following link: https://www
 
 This project is from the following tutorial:
 
-[![YouTube Video](https://img.youtube.com/vi/G1sp7t81Yw0/0.jpg)](https://www.youtube.com/watch?v=G1sp7t81Yw0)
+[![YouTube Video](https://img.youtube.com/vi/g5DTS4g8lVk/0.jpg)](https://www.youtube.com/watch?v=g5DTS4g8lVk)
