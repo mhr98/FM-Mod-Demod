@@ -2,3 +2,7 @@
 This project provide Simulink implementation for simulating FM signals, and demodulating real FM broadcast signal.
 
 The FM baseband recording can be downloaded from the following link: https://www.sdrangel.org/iq-files/
+
+This project is from the following tutorial:
+
+[![YouTube Video](https://img.youtube.com/vi/G1sp7t81Yw0/0.jpg)](https://www.youtube.com/watch?v=G1sp7t81Yw0)
